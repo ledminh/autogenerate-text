@@ -1,0 +1,40 @@
+.ThemeDefault {
+    position: relative;
+    width: 90%;
+    margin: auto;
+}
+
+.ThemeDefault .header {
+    text-align: center;
+    color: rgb(100, 62, 4);
+}
+
+.ThemeDefault .content {
+    height: 700px;
+    overflow-y: scroll; 
+}
+
+.ThemeDefault .input {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+
+.ThemeDefault .paragraph {
+    font-size: medium;
+    font-weight: 450;
+    color: rgb(46, 39, 36);
+
+}
+
+.ThemeDefault .paragraph :hover {
+    color: rgb(252, 249, 248);
+    background-color: rgb(34, 29, 29);
+}
+
+.ThemeDefault .buttons {
+    margin-top: 5px;
+    text-align: center;
+}
+
+
